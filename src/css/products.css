@@ -1,0 +1,13 @@
+.productForm {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 25%;
+  }
+
+  .editProduct {
+    margin-left: 10px;
+    display: flex;
+    gap: 5px;
+  }
+  
